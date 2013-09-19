@@ -20,7 +20,12 @@
 	// Do any additional setup after loading the view, typically from a nib.
     
     
-    self.view.backgroundColor = [UIColor colorWithHue:0.4 saturation:0.5 brightness:0.8 alpha:1];
+    self.view.backgroundColor = [UIColor colorWithHue:0.2 saturation:0.5 brightness:0.8 alpha:1];
+    
+    [UIView animateWithDuration:10 animations:^{
+        self.view.backgroundColor = [UIColor colorWithHue:0.6 saturation:0.7 brightness:0.8 alpha:1];
+    }];
+    
 }
 
 - (void)didReceiveMemoryWarning
