@@ -18,6 +18,9 @@
 {
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
+    
+    
+    self.view.backgroundColor = [UIColor colorWithHue:0.4 saturation:0.5 brightness:0.8 alpha:1];
 }
 
 - (void)didReceiveMemoryWarning
