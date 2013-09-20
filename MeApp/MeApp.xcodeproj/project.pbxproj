@@ -21,6 +21,8 @@
 		3722CEDA17EBC3DD00CF9BA6 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3722CEBC17EBC3DD00CF9BA6 /* UIKit.framework */; };
 		3722CEE217EBC3DD00CF9BA6 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 3722CEE017EBC3DD00CF9BA6 /* InfoPlist.strings */; };
 		3722CEE417EBC3DD00CF9BA6 /* MeAppTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 3722CEE317EBC3DD00CF9BA6 /* MeAppTests.m */; };
+		3722CEEE17EBC70900CF9BA6 /* 1146560_500437066704692_457623918_n.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3722CEED17EBC70800CF9BA6 /* 1146560_500437066704692_457623918_n.jpg */; };
+		3722CEF017EBC71300CF9BA6 /* 11954382541257828096play_symbol_cosmin_humen_01.svg.med.png in Resources */ = {isa = PBXBuildFile; fileRef = 3722CEEF17EBC71300CF9BA6 /* 11954382541257828096play_symbol_cosmin_humen_01.svg.med.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +55,8 @@
 		3722CEDF17EBC3DD00CF9BA6 /* MeAppTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "MeAppTests-Info.plist"; sourceTree = "<group>"; };
 		3722CEE117EBC3DD00CF9BA6 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		3722CEE317EBC3DD00CF9BA6 /* MeAppTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MeAppTests.m; sourceTree = "<group>"; };
+		3722CEED17EBC70800CF9BA6 /* 1146560_500437066704692_457623918_n.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 1146560_500437066704692_457623918_n.jpg; sourceTree = "<group>"; };
+		3722CEEF17EBC71300CF9BA6 /* 11954382541257828096play_symbol_cosmin_humen_01.svg.med.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 11954382541257828096play_symbol_cosmin_humen_01.svg.med.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -117,6 +121,8 @@
 				3722CECA17EBC3DD00CF9BA6 /* Main.storyboard */,
 				3722CECD17EBC3DD00CF9BA6 /* OZViewController.h */,
 				3722CECE17EBC3DD00CF9BA6 /* OZViewController.m */,
+				3722CEED17EBC70800CF9BA6 /* 1146560_500437066704692_457623918_n.jpg */,
+				3722CEEF17EBC71300CF9BA6 /* 11954382541257828096play_symbol_cosmin_humen_01.svg.med.png */,
 				3722CED017EBC3DD00CF9BA6 /* Images.xcassets */,
 				3722CEBF17EBC3DD00CF9BA6 /* Supporting Files */,
 			);
@@ -229,9 +235,11 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3722CEEE17EBC70900CF9BA6 /* 1146560_500437066704692_457623918_n.jpg in Resources */,
 				3722CED117EBC3DD00CF9BA6 /* Images.xcassets in Resources */,
 				3722CEC317EBC3DD00CF9BA6 /* InfoPlist.strings in Resources */,
 				3722CECC17EBC3DD00CF9BA6 /* Main.storyboard in Resources */,
+				3722CEF017EBC71300CF9BA6 /* 11954382541257828096play_symbol_cosmin_humen_01.svg.med.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

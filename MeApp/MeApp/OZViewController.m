@@ -9,6 +9,7 @@
 #import "OZViewController.h"
 
 @interface OZViewController ()
+@property (strong, nonatomic) IBOutlet UIImageView *im;
 
 @end
 
@@ -22,8 +23,10 @@
     
     self.view.backgroundColor = [UIColor colorWithHue:0.2 saturation:0.5 brightness:0.8 alpha:1];
     
-    [UIView animateWithDuration:10 animations:^{
+    [UIView animateWithDuration:15 animations:^{
         self.view.backgroundColor = [UIColor colorWithHue:0.6 saturation:0.7 brightness:0.8 alpha:1];
+        
+        self.im.alpha = 1;
     }];
     
 }
