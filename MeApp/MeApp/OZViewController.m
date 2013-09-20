@@ -26,7 +26,7 @@
     [UIView animateWithDuration:15 animations:^{
         self.view.backgroundColor = [UIColor colorWithHue:0.6 saturation:0.7 brightness:0.8 alpha:1];
         
-        self.im.alpha = 1.0;
+        self.im.alpha = 1.00;
     }];
     
 }
